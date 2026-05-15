@@ -1,0 +1,27 @@
+{
+  "name": "learning_backend",
+  "version": "1.0.0",
+  "description": "A backend learning ",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "homepage": "https://github.com/kharpaw/Backend-youtube#readme",
+  "bugs": {
+    "url": "https://github.com/kharpaw/Backend-youtube/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharpaw/Backend-youtube.git"
+  },
+  "license": "ISC",
+  "author": "Pawan Kharel",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
